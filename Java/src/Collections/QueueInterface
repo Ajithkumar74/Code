@@ -1,0 +1,5 @@
+Queue interface maintains the first-in-first-out.
+
+It can be defined as an ordered list that is used to hold elements which are about to be processed.
+
+there are various classes like PriorityQueue,Deque, and ArrayDeque which implements the Queue interface.  

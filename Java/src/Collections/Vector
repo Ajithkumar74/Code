@@ -1,0 +1,4 @@
+Vector uses a dynamic array to store the data elements .
+
+It is similar to ArrayList,
+It is synchronized and contains many methods that are not the part of Collection framework.
