@@ -1,0 +1,13 @@
+TreeSet class implements the set interface that uses a tree for storage.
+
+The important points about the Java TreeSet class are:
+
+Java TreeSet class contains unique elements only like HashSet.
+
+Java TreeSet class access and retrieval times are quiet fast.
+
+Java TreeSet Class doesn't allow null element.
+
+Java TreeSet Class is non synchronized.
+
+Java TreeSet Class maintains ascending order.
