@@ -1,6 +1,12 @@
 # Code
-git init
-git add .
-git commit -am "javascript code"
+git init 
+
+git add README.MD 
+
+git commit -m "first commit"
+
+git branch -M main
+
 git remote add origin https://github.com/Ajithkumar74/Code.git
-git push origin main
+
+git push -u origin main
