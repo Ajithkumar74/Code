@@ -1,0 +1,31 @@
+<!--You are driving a little too fast and police stops you.Write a code to compute the result,encoded as an int value:0no ticket,1small ticket,2bigticket.If the speed is 60 or less,the result is 0.If the speed is in b/w 61-80 the result is 1,if the speed is >81,the result is 2.Unless it is your b’day on that day,your speed can be 5 higher in all cases.-->
+
+<html>
+   <head>
+    <script> 
+    	function speed_indicator(speed,isBday)
+    	{
+    		if(isBday)
+    		{
+    			speed=speed-5
+    		}
+    		if(speed<=60)
+    		{
+    			return 0
+    		}
+    		else if(speed>=61 && speed<=80)
+    		{
+    			return 1
+    		}
+    		else
+    		{
+    			return 2
+    		}
+    	}
+    	alert("trial 1:"+speed_indicator(60,false))//0
+    	alert("trial 2:"+speed_indicator(65,false))//1
+    	alert("trail 3:"+speed_indicator(65,true))//0
+    </script> 
+   </head>
+   <body>
+</html>

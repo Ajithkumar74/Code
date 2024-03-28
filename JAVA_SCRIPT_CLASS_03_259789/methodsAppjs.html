@@ -1,0 +1,36 @@
+<html>
+   <head>
+    <script>
+      var books=[]
+      var input=Number(prompt("Enter 1-->add,2-->display,3-->exit,4-->remove"))
+      while(input!=3)
+      {
+      	if(input==1)
+      	{
+      		var newBook=prompt("Enter name of the book")
+      		books.push(newBook)
+      	}
+      	else if(input==2)
+      	{
+      		alert("Available books are")
+      		alert(books)
+      	}
+      	else if(input==4)
+      	{
+      		x=books.pop()
+      		alert("Removed book:"+x)
+
+      	}
+      	else
+      	{
+      		alert("Invalid option")
+      	}
+      	input=Number(prompt("Enter 1-->add,2-->display,3-->exit"))
+      }
+      alert("Thank you")
+
+      
+    </script> 
+   </head>
+   <body>
+</htm>

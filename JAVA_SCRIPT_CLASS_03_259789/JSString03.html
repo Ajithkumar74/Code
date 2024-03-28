@@ -1,0 +1,23 @@
+<!--Given a string with a non-negative int n,return a larger string that is n copies of the original string.
+fun(“Hello”,2)”HelloHello”  
+    fun(“Hello”,3)”HelloHelloHello”-->
+<html>
+   <head>
+    <script> 
+    	function fun(str,n)
+    	{
+    		result=""
+    		var count=1
+    		while(count<=n)
+    		{
+    			result=result+str
+    			count++
+    		}
+    		return result
+    	}
+    	alert(fun("Hello",3))
+    	alert(fun("Penta",4))
+    </script> 
+   </head>
+   <body>
+</html>

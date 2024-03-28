@@ -1,0 +1,18 @@
+What is javascript?
+JavaScript is one of the most popular programming languages in the world, and growing faster than any other programming language. As a developer, you can use JavaScript to build web and mobile apps, real-time networking apps, command-line tools, and games.
+
+
+JavaScript was initially created to "make web pages alive".
+Programs in this lanaguage are called scripts.
+
+They can  be  written right in a web page's HTML and run automatically as the pages looks.
+
+what makes JavaScript unique?
+Full Integration with HTML/CSS
+Simple things are done simply.
+Supported by all major browsers and enabled by default.
+
+JavaScript was initially created as a browser-only language, but it is now used in many other environments as well.
+Today, JavaScript has a unique position as the most widely-adopted browser language, fully integrated with HTML/CSS.
+There are many languages that get “transpiled” to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
+
