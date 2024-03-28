@@ -1,5 +1,0 @@
-The ArrayList class implements List Interface.
- It uses Dynamic array to store the duplicate element in different data types.
- 
- The ArrayList class Maintains the insertion order and is non-synchronized.
- The elements stored in the ArrayList class can be randomly accessed.

@@ -1,6 +1,0 @@
-Throw
-
-The java throw keyword  is used to throw an Exception explicitly.
-
-We Specify the exception object which is to be thrown. 
-The Exception has some message with it that provides the error description.

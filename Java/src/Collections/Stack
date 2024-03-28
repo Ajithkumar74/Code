@@ -1,4 +1,0 @@
-The Stack is subclass of Vector. 
-It implements the last-in-first-out data structure, i.e., Stack
-
-The stack contains all of the methods of Vector class and also provides its methods like boolean push(), boolean peek(), boolean push(object o), which defines its properties.
