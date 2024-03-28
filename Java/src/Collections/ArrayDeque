@@ -1,5 +1,0 @@
-Array Deque class implemenets the Deque interface.
-
-It facilitates us to use the Deque.
-
-ArrayDeque is faster than ArrayList And Stack and has no capacity restricions

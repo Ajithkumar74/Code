@@ -1,5 +1,0 @@
-The Priority Queue class implements Queue interface.
-
-It holds the elements or objects which are to be processed by their priorities.
-
-PriorityQueue doesn't allow null values to be stored in the queue.
